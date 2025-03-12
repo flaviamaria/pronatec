@@ -1,0 +1,151 @@
+1- o que é mercado de trabalho?
+é o lugar onde se dá a troca quem procura emprego e quem oferece emprego.
+
+2- qual a diferença entre trabalho e emprego?
+trabalho é uma atividade que uma pessoa realiza para atingir um objetivo, 
+enquanto emprego é uma ocupação remunerada e determinada.
+
+3-quais são os tipos de contratação?
+CLT, PJ, estágio jovem aprendiz, trabalho parcial, trabalho remoto, terceirização, trabalho autônomo, contrato de experiência.
+
+4- quais são as vantagens de ser clt?
+garante direito e beneficios aos trabalhadores, como férias, 13° salário, seguro-desemprego, FGTS e aposentadoria.
+
+5- qual a diferença entre a profissão e carreira?
+a profissão é a area de atuação, enquanto a carreira é o caminho que o  profissional percorre.
+ 
+
+
+
+pg. 26
+1-Defina com base nos conteúdos vistos em sala: bacharelado e licenciatura.
+Bacharelado: É um tipo de curso superior que prepara você para o mercado de trabalho. Aqui, o foco é aprender na prática e desenvolver habilidades específicas da sua profissão. Os cursos costumam durar de 3 a 5 anos, dependendo da área. Se você quer ser um administrador, engenheiro ou advogado, o bacharelado é o caminho!
+
+Licenciatura: Esse é o curso para quem quer ser professor. A ideia é preparar você para ensinar em escolas, desde a educação infantil até o ensino médio. A duração geralmente é de 3 a 4 anos e envolve tanto as matérias da sua área de ensino quanto algumas disciplinas sobre como ensinar.
+
+2. Quais as modalidades dos cursos de bacharelado e de licenciatura? Explique.
+bacharelado:
+Presencial: Aulas na sala de aula, interagindo com professores e colegas.
+
+EAD (Educação a Distância): Você estuda online, no seu ritmo, com alguns encontros presenciais de vez em quando.
+Licenciatura:
+
+Presencial: Aulas em escola e prática pedagógica, bem na vibe de como ensinar.
+
+EAD: Flexível, perfeito para quem tem uma rotina corrida, mas ainda quer se formar.
+
+3. Pesquise quais as áreas e os cursos de bacharelado e licenciatura mais procurados
+nos últimos anos.
+
+Bacharelado:
+Administração,Engenharia,Direito,Saúde.
+
+Licenciatura:
+Pedagogia,Letras,Matemática,Educação Física.
+
+
+pg. 44
+
+1. Quais as áreas com alta demanda no mercado de TI?
+Desenvolvimento de Software: Programadores e desenvolvedores são sempre procurados.
+Segurança da Informação: Com o aumento das ameaças digitais, a segurança cibernética é essencial.
+Data Science e Big Data: Profissionais que conseguem analisar e interpretar dados são muito valorizados.
+Inteligência Artificial: Especialistas em IA estão em alta devido à inovação tecnológica.
+Cloud Computing: Profissionais que entendem de serviços em nuvem, como AWS e Azure, são muito requisitados.
+
+2. Pesquise por 3 profissões na área de TI e apresente suas características e média
+salarial no Brasil.
+Desenvolvedor de Software:
+Características: Criação e manutenção de programas e aplicativos. Trabalha com várias linguagens de programação.
+Média Salarial: R$ 7.000 a R$ 12.000 por mês.
+Analista de Segurança da Informação:
+Características: Protege sistemas e dados contra ameaças, implementa políticas de segurança.
+Média Salarial: R$ 8.000 a R$ 15.000 por mês.
+Cientista de Dados:
+Características: Analisa grandes volumes de dados e ajuda a tomar decisões estratégicas com base nas informações.
+Média Salarial: R$ 10.000 a R$ 18.000 por mês.
+
+
+3. Quais as principais demandas de um designer gráfico?
+Criação de identidades visuais.
+Desenvolvimento de layouts para materiais impressos e digitais.
+Edição de imagens e criação de ilustrações.
+Colaboração com equipes de marketing e comunicação.
+
+
+4. Qual o perfil desejado desse profissional?
+Criativo e inovador.
+Boa comunicação e capacidade de trabalhar em equipe.
+Habilidade em resolver problemas.
+Conhecimento em tendências de design.
+
+5. Quais as ferramentas o profissional de designer precisa dominar?
+Adobe Photoshop: Para edição de imagens.
+Adobe Illustrator: Para criação de ilustrações e vetores.
+Adobe InDesign: Para layouts de impressão.
+Figma ou Sketch: Para design de interfaces e prototipagem.
+
+6. Quais as demandas de um desenvolvedor de games?
+Criação de jogos para diversas plataformas (PC, consoles, mobile).
+Programação e implementação de mecânicas de jogo.
+Colaboração com artistas e designers.
+Testes e otimização de jogos.
+
+7. Perfil desejado de um Gamer developer?
+Apaixonado por jogos e tecnologia.
+Habilidades em programação (C++, C#, etc.).
+Capacidade de trabalhar em equipe e resolver problemas.
+Criatividade e atenção aos detalhes.
+
+8. Quais as principais demandas do profissional de suporte técnico em informática?
+Atendimento ao cliente para solucionar problemas técnicos.
+Instalação e configuração de hardware e software.
+Manutenção de sistemas e equipamentos.
+Treinamento de usuários para utilização de tecnologias.
+
+9. Qual o perfil desejado desse profissional?
+Sistemas de atendimento ao cliente (como Zendesk).
+Ferramentas de diagnóstico (como ferramentas de rede).
+Software de gestão de tickets.
+Conhecimento em sistemas operacionais (Windows, macOS, Linux).
+
+
+10. Quais as ferramentas o profissional de assistência técnica precisa dominar?
+Gerencia e mantém a infraestrutura de redes de uma organização.
+Configura e monitora servidores e dispositivos de rede.
+Garante a segurança da rede e resolve problemas de conectividade.
+
+11. O que faz um Administrador de Redes?
+Gerencia e mantém a infraestrutura de redes de uma organização.
+Configura e monitora servidores e dispositivos de rede.
+Garante a segurança da rede e resolve problemas de conectividade.
+
+
+12. Qual a Média Salarial para Administrador de Redes?
+R$ 6.000 a R$ 12.000 por mês, dependendo da experiência e das certificações.
+
+13. Que certificações são importantes para a valorização profissional administrador de redes?
+CCNA (Cisco Certified Network Associate): Para conhecimentos em redes Cisco.
+CompTIA Network+: Para fundamentos de redes.
+MCSA (Microsoft Certified Solutions Associate): Para gestão de servidores Microsoft.
+
+
+14. Que Faz Um Profissional De Segurança da Informação?
+Protege dados e sistemas de ataques cibernéticos.
+Implementa políticas e procedimentos de segurança.
+Realiza auditorias de segurança e testes de penetração.
+
+15. Qual A Média Salarial Para Segurança Da Informação?
+R$ 10.000 a R$ 20.000 por mês, dependendo da posição e da experiência.
+
+16. Quais são Áreas Atuação Segurança Da Informação?
+Consultoria em segurança cibernética.
+Análise de risco e compliance.
+Resposta a incidentes de segurança.
+Governança de segurança da informação.
+
+17. Que certificações são importantes para a valorização profissional da segurança da
+informação?
+CISSP (Certified Information Systems Security Professional): Para profissionais experientes.
+CISM (Certified Information Security Manager): Focado em gestão de segurança.
+CEH (Certified Ethical Hacker): Para conhecimentos em testes de penetração.
